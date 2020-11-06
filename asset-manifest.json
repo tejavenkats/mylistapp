@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/mylistapp/static/css/main.ca096355.chunk.css",
-    "main.js": "/mylistapp/static/js/main.f672f4e2.chunk.js",
-    "main.js.map": "/mylistapp/static/js/main.f672f4e2.chunk.js.map",
+    "main.css": "/mylistapp/static/css/main.f1ef1ac6.chunk.css",
+    "main.js": "/mylistapp/static/js/main.03684488.chunk.js",
+    "main.js.map": "/mylistapp/static/js/main.03684488.chunk.js.map",
     "runtime-main.js": "/mylistapp/static/js/runtime-main.f06cfc01.js",
     "runtime-main.js.map": "/mylistapp/static/js/runtime-main.f06cfc01.js.map",
     "static/js/2.f208a527.chunk.js": "/mylistapp/static/js/2.f208a527.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.f9b85c81.chunk.js": "/mylistapp/static/js/3.f9b85c81.chunk.js",
     "static/js/3.f9b85c81.chunk.js.map": "/mylistapp/static/js/3.f9b85c81.chunk.js.map",
     "index.html": "/mylistapp/index.html",
-    "static/css/main.ca096355.chunk.css.map": "/mylistapp/static/css/main.ca096355.chunk.css.map",
+    "static/css/main.f1ef1ac6.chunk.css.map": "/mylistapp/static/css/main.f1ef1ac6.chunk.css.map",
     "static/js/2.f208a527.chunk.js.LICENSE.txt": "/mylistapp/static/js/2.f208a527.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f06cfc01.js",
     "static/js/2.f208a527.chunk.js",
-    "static/css/main.ca096355.chunk.css",
-    "static/js/main.f672f4e2.chunk.js"
+    "static/css/main.f1ef1ac6.chunk.css",
+    "static/js/main.03684488.chunk.js"
   ]
 }
